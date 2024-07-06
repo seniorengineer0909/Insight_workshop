@@ -1,5 +1,5 @@
 # Insight_workshop: face recognition system using OpenFace (Google FaceNet)
-Thie repository contains a tutorial iPython Notebook ([OpenFace_Workshop.ipynb](https://github.com/sungsujaing/Insight_workshop/blob/master/OpenFace_Workshop.ipynb)) to build a basic face recognition system using OpenFace, a Python implementation of [FaceNet](https://www.cv-foundation.org/openaccess/content_cvpr_2015/app/1A_089.pdf) (Google). For more detailed information about this model, please refer to my article, [***HERE***](https://github.com/sungsujaing/Artificial_Intelligence_articles_and_tutorials/blob/master/Articles/Face%20recognition%20using%20OpenFace.md).
+Thie repository contains a tutorial iPython Notebook ([OpenFace_Workshop.ipynb](https://github.com/alexbrowntiger/Insight_workshop/blob/master/OpenFace_Workshop.ipynb)) to build a basic face recognition system using OpenFace, a Python implementation of [FaceNet](https://www.cv-foundation.org/openaccess/content_cvpr_2015/app/1A_089.pdf) (Google). For more detailed information about this model, please refer to my article, [***HERE***](https://github.com/alexbrowntiger/Artificial_Intelligence_articles_and_tutorials/blob/master/Articles/Face%20recognition%20using%20OpenFace.md).
 
 In order to replicate the results, please create a virtual environment and use the recommended modules as described below. 
 
